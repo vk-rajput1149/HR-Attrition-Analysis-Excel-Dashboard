@@ -73,5 +73,5 @@ The raw dataset used for this project can be found here:
 **Aadi Chauhan**  
 Aspiring Data Analyst  
 
-📫 Connect with me on GitHub & LinkedIn
+📫 Connect with me on LinkedIn
 LinkedIn: **[Aadi_Chauhan-LinkedIn](http://www.linkedin.com/in/aadi-chauhan-675903368)**
