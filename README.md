@@ -31,7 +31,7 @@ All insights are **interactive** using slicers.
 ---
 
 ## 🛠 Tools & Skills Used
-- Microsoft Excel 2019  
+- Microsoft Excel   
 - Pivot Tables & Pivot Charts  
 - Excel Lookups (VLOOKUP / XLOOKUP)  
 - Data Cleaning & Deduplication  
