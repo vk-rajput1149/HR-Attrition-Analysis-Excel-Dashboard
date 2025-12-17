@@ -50,7 +50,7 @@ All insights are **interactive** using slicers.
 ---
 
 ## 📸 Dashboard Screenshot
-![HR Attrition Dashboard]<img width="1357" height="731" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/5e9a6259-d914-46ea-a2c3-cb5aa6cabc3a" />
+<img width="1357" height="731" alt="Dashboard_Screenshot" src="https://github.com/user-attachments/assets/5e9a6259-d914-46ea-a2c3-cb5aa6cabc3a" />
 
 
 > *Note: Dashboard is designed to fit on a single screen with no scrolling.*
